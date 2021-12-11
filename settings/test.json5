@@ -1,5 +1,6 @@
 {
   // comment
   foo: 'bar',
-  JSON5: 'support'
+  JSON5: 'support',
+  decimal: .1290319023,
 }
